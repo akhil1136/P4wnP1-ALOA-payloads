@@ -1,4 +1,4 @@
-layout('us'); //us keybord
+layout('us'); // US keyboard layout
 typingSpeed(0,0)
 press("GUI r");
 delay(500);
