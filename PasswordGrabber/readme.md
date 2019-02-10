@@ -19,6 +19,6 @@ Full read here https://github.com/AlessandroZ/LaZagne
   https://ibb.co/3cyLcF7
   https://ibb.co/YymT7WQ
 
-  ## i'm not responsible on usage you do with it this is for eduational purpose only
+ i'm not responsible on usage you do with it this is for eduational purpose only
 
   ## remember all my payloads are in US kerboard layout
