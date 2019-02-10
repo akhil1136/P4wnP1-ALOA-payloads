@@ -14,7 +14,10 @@ Full read here https://github.com/AlessandroZ/LaZagne
   2. Drive name should be"P4WNP1".Add 3 folders. Unzip the exe file and place it in the tools folder. The payload folder should contain all the files that are in this payload and the LaZagne.exe
 
   ![alt tag](https://ibb.co/3cyLcF7)
-  ![alt tag](https://ibb.co/YymT7WQ)
+  ![alt tag](https://ibb.co/3cyLcF7)
+  
+  https://ibb.co/3cyLcF7
+  https://ibb.co/YymT7WQ
 
   ## i'm not responsible on usage you do with it this is for eduational purpose only
 
