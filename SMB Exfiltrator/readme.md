@@ -16,17 +16,14 @@ Rewrite of the original SMB Exfiltrator payload with:
 * Hidden powershell window by default
 
 ## REQUIREMENTS
-# ============
- Needs impacket to be copied to /tools/impacket and installed
-# Option A:
+
    1. Download impacket from https://github.com/CoreSecurity/impacket
-   2. Copy impacket folder to /tools on the PWNPI root drive
-   3. goto cd impacket/
-  4. install "python setup.py install"
+   2. goto cd impacket/
+   3. install "python setup.py install"
 
 ## Configuration
   1.create folder root mkdir /Data give full permissions chmod +x /Data
-  2.goto impacket/examples run this command  "./smbserver.py -comment 'My share' -username any -password any -smb2support Data /Datasmbserver.py -comment 'My share' -username any -password any -smb2support Data /Data" 
+  2.goto impacket/examples run this command  "./smbserver.py -comment 'My share' -username any -password any -smb2support Data       /Datasmbserver.py -comment 'My share' -username any -password any -smb2support Data /Data" 
   Configured to copy .docx files by default. Change $exfil_ext in s.ps1 to desired.
 
 
