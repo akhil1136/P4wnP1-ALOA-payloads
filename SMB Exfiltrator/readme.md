@@ -12,7 +12,6 @@ Rewrite of the original SMB Exfiltrator payload with:
 * Faster finish, using a EXFILTRATION_COMPLETE file
 * Offload logic to target PC for accurate date/time
 * Clears tracks by default without second run dialog
-* Test-Connection handling by ICMP (no lame sleeps)
 * Hidden powershell window by default
 
 ## REQUIREMENTS
