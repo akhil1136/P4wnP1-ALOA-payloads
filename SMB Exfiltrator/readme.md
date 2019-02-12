@@ -7,7 +7,6 @@
 Exfiltrates select files from users's documents folder via SMB.
 Liberated documents will reside in PWNPI loot directory under /Data/HOSTNAME/DATE_TIME
 
-Rewrite of the original SMB Exfiltrator payload with:
 * Faster copying, using robocopy multithreaded mode
 * Faster finish, using a EXFILTRATION_COMPLETE file
 * Offload logic to target PC for accurate date/time
