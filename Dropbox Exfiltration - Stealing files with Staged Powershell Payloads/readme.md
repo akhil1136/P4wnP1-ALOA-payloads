@@ -8,7 +8,7 @@ Staged powershell payload which downloads and executes exfil.ps1 from dropbox wh
 Requirements
 
     Step 1. Create a Dropbox app using their API and generate an access token from https://www.dropbox.com/developers/apps/create
-    Step 2. Customize the powershell second stage exfil.ps1 file to exfiltrate the loot to Dropbox using the token generated above
+    Step 2. Customize the powershell exfil.ps1 file to exfiltrate the loot to Dropbox using the token generated above
     Step 3. Get a direct dropbox link for the powershell file (right-click exfil.ps1, get dropbox link, replace dl=0 with dl=1)
     Step 4. Customize the exfiltration payload.txt to use the dropbox link from above
 
