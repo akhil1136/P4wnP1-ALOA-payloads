@@ -10,7 +10,7 @@ The LaZagne project is an open source application used to retrieve lots of passw
 
 Full read here https://github.com/AlessandroZ/LaZagne
 
-## Configuration
+### Configuration
 
   1. You need to download the lastest file from LaZagne release page.https://github.com/AlessandroZ/LaZagne
   2. Drive name should be"P4WNP1".Add 3 folders. Unzip the exe file and place it in the tools folder. The payload folder should contain all the files that are in this payload and the LaZagne.exe
