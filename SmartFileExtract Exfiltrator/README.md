@@ -1,14 +1,9 @@
 # SmartFileExtract Exfiltrator
-Method of calling SmartFileExtractor is based on the excellent work of IMcPwn: the ExecutableInstaller.
+SmartFileExtract is a find-and-copy utility written specifically for the Hak5 BashBunny but also is usable as a standalone utility. Files are found by standard patterns (including wildcards) and then copied to any valid path.
 
-The default payload included in this distribution:
-- Looks to Forensics like a Lexar drive
 - Finds all files with a) the word secret or pass in the filename as well as b) any DOCX files
 - Reports status as a fake install window
 - Stops extract after 90 seconds or 500 MBs
-
-SmartFileExtract has full documentation on how to use the utility, but if you want to kick the tires and light the fires, run:
-smartfileextract /help
 
 Setup:
 - Download the SmartFileExtract utility from https://github.com/saintcrossbow/SmartFileExtract
