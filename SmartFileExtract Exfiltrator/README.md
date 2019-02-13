@@ -21,3 +21,4 @@ Setup:
 2 *.PDF              PDF files
 3 *.XLS and .XLSX    Microsoft Excel
 4 *.PPT and .PPTX    Microsoft PowerPoint
+![](./demo.gif)
