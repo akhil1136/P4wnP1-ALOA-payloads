@@ -17,8 +17,10 @@ Setup:
 
 ## File Extensions
 
-1 *.DOC and .DOCX    Microsoft Word documents.
-2 *.PDF              PDF files
-3 *.XLS and .XLSX    Microsoft Excel
-4 *.PPT and .PPTX    Microsoft PowerPoint
+     1 *.DOC and .DOCX    Microsoft Word documents. 
+     2 *.PDF              PDF files
+     3 *.XLS and .XLSX    Microsoft Excel
+     4 *.PPT and .PPTX    Microsoft PowerPoint
+
+
 ![](./demo.gif)
