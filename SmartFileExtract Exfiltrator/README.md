@@ -12,7 +12,7 @@ smartfileextract /help
 
 Setup:
 - Download the SmartFileExtract utility from https://github.com/saintcrossbow/SmartFileExtract
-* Quick tip: you only need the SmartFileExtract.exe from the project 'P4AWNP1'\SmartFile
+* Quick tip: you only need the SmartFileExtract.exe from the project copy to "P4WNP1" SmartFile\
 
 
 ## File Extensions
