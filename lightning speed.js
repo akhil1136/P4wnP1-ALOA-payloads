@@ -10,9 +10,9 @@ function win10AsAdmin() {
   press("ENTER");
 }
 win10AsAdmin();
-delay(200);
+delay(1000);
  press("ALT SPACE m");
-delay(1000); 
+delay(500); 
 for (var i = 0; i<100; i++){
 press("down")+i
 }
